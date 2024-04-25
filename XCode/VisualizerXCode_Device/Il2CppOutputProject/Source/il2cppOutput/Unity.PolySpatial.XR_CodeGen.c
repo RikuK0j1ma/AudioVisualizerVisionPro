@@ -1,0 +1,89 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m73231DA2B0BD306C684D34F2DFCECB95DA26E7EA (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_m339CA6166545E3E59D561B9124C9D569553154A4 (void);
+extern void InputSystemUtility_Subscribe_mD96F839A5C6698D9AD586C2986F1E05E4CD4B32E (void);
+extern void InputSystemUtility_Unsubscribe_mD2BA2B73415C392C2007A921815C42749C35FF91 (void);
+extern void InputSystemUtility_GetInputAction_m0C71155579F684D8308CE737B7096C980CF78537 (void);
+extern void XRHostCommandHandler_Initialize_mB30B8C58318838B1AD5E2573F57D8D3E8741CDF7 (void);
+extern void XRHostCommandHandler_Dispose_m4BAFAA224A084CA1FEF4EE508C293D7AA37C98C7 (void);
+extern void XRHostCommandHandler_HandleHostCommand_m94EA889C393371B3F3C75F9574762AE2AAD07E1E (void);
+extern void XRHostCommandHandler__ctor_mA826AF9E3B5900124C77D0C8C1543BE2EA48CB50 (void);
+extern void XRLocalCommandHandler__ctor_mDA6F58DF1103E8CE8E983766972B8ADB9A5ABA18 (void);
+extern void XRLocalCommandHandler_Initialize_m875FF9A1DCD91D757963392939CA421444ECEE1B (void);
+extern void XRLocalCommandHandler_Dispose_mDBB399A26CCCF8B5C32094E00A98E4D2F37268B1 (void);
+extern void XRLocalCommandHandler_HandleCommand_mF0EAB5C3620982AB32090B30CB3B94C626B33EAE (void);
+extern void PolySpatialMRCapabilityProfile__ctor_m52D3EE08F3C512AABA375C7A737C51BF15395063 (void);
+extern void PolySpatialVRCapabilityProfile_TryGetCapabilityValue_m87DBCA17DB446365055A306A7C3148DC51048578 (void);
+extern void PolySpatialVRCapabilityProfile__ctor_m69B9A909342055F3D93C414E88E3EDC1FA0471AE (void);
+static Il2CppMethodPointer s_methodPointers[16] = 
+{
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m73231DA2B0BD306C684D34F2DFCECB95DA26E7EA,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_m339CA6166545E3E59D561B9124C9D569553154A4,
+	InputSystemUtility_Subscribe_mD96F839A5C6698D9AD586C2986F1E05E4CD4B32E,
+	InputSystemUtility_Unsubscribe_mD2BA2B73415C392C2007A921815C42749C35FF91,
+	InputSystemUtility_GetInputAction_m0C71155579F684D8308CE737B7096C980CF78537,
+	XRHostCommandHandler_Initialize_mB30B8C58318838B1AD5E2573F57D8D3E8741CDF7,
+	XRHostCommandHandler_Dispose_m4BAFAA224A084CA1FEF4EE508C293D7AA37C98C7,
+	XRHostCommandHandler_HandleHostCommand_m94EA889C393371B3F3C75F9574762AE2AAD07E1E,
+	XRHostCommandHandler__ctor_mA826AF9E3B5900124C77D0C8C1543BE2EA48CB50,
+	XRLocalCommandHandler__ctor_mDA6F58DF1103E8CE8E983766972B8ADB9A5ABA18,
+	XRLocalCommandHandler_Initialize_m875FF9A1DCD91D757963392939CA421444ECEE1B,
+	XRLocalCommandHandler_Dispose_mDBB399A26CCCF8B5C32094E00A98E4D2F37268B1,
+	XRLocalCommandHandler_HandleCommand_mF0EAB5C3620982AB32090B30CB3B94C626B33EAE,
+	PolySpatialMRCapabilityProfile__ctor_m52D3EE08F3C512AABA375C7A737C51BF15395063,
+	PolySpatialVRCapabilityProfile_TryGetCapabilityValue_m87DBCA17DB446365055A306A7C3148DC51048578,
+	PolySpatialVRCapabilityProfile__ctor_m69B9A909342055F3D93C414E88E3EDC1FA0471AE,
+};
+static const int32_t s_InvokerIndices[16] = 
+{
+	21421,
+	12579,
+	17133,
+	17133,
+	20410,
+	12579,
+	12579,
+	1624,
+	12579,
+	12579,
+	12579,
+	12579,
+	1801,
+	12579,
+	3131,
+	12579,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Unity_PolySpatial_XR_CodeGenModule;
+const Il2CppCodeGenModule g_Unity_PolySpatial_XR_CodeGenModule = 
+{
+	"Unity.PolySpatial.XR.dll",
+	16,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
