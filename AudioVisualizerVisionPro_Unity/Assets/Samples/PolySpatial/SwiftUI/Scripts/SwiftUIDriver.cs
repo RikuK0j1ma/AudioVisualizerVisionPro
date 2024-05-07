@@ -1,3 +1,4 @@
+#if ENABLE_PRO_FEATURES
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using AOT;
@@ -104,3 +105,4 @@ namespace Samples.PolySpatial.SwiftUI.Scripts
 
     }
 }
+#endif

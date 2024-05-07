@@ -1,3 +1,4 @@
+#if ENABLE_PRO_FEATURES
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -24,3 +25,4 @@ namespace PolySpatial.Samples
         }
     }
 }
+#endif

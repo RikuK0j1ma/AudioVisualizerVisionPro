@@ -1,3 +1,5 @@
+#if ENABLE_PRO_FEATURES
+
 using Unity.PolySpatial.InputDevices;
 using UnityEngine;
 using UnityEngine.InputSystem.EnhancedTouch;
@@ -35,3 +37,4 @@ namespace PolySpatial.Samples
         }
     }
 }
+#endif
