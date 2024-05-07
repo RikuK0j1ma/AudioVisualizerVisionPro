@@ -1,3 +1,4 @@
+#if ENABLE_PRO_FEATURES
 using System;
 using System.Collections.Generic;
 using TMPro;
@@ -181,3 +182,4 @@ namespace PolySpatial.Samples
         public TMP_Text SelectionRayRotationZValue;
     }
 }
+#endif

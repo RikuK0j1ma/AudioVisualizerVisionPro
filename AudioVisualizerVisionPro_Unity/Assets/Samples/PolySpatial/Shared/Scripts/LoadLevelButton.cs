@@ -1,3 +1,4 @@
+#if ENABLE_PRO_FEATURES
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.XR.ARFoundation;
@@ -31,3 +32,4 @@ namespace PolySpatial.Samples
         }
     }
 }
+#endif
